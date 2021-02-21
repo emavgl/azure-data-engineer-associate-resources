@@ -5,7 +5,7 @@ In this repo I share my personal note for the exam DP-200 and DP-201. Both exam 
 ## Other resources
 
 ### Video course DP-200/DP-203
-I would like to recommend this Udemy corse https://www.udemy.com/course/dp200exam/
+I would like to recommend this Udemy corse https://www.udemy.com/course/dp200exam/. 
 Check the Author's website for discount code: https://learncloud.info/
 
 ### Video course AZ-900 (Azure Fundamentals)
