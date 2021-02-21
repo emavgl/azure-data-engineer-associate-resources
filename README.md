@@ -2,6 +2,11 @@
 
 In this repo I share my personal note for the exam DP-200 and DP-201. Both exam will be soon merged into a single exam DP-203.
 
+## Practice test
+
+- https://github.com/emavgl/dataengineer_DP200_practicetest
+- https://github.com/emavgl/dataengineer_DP201_practicetest
+
 ## Other resources
 
 ### Video course DP-200/DP-203
